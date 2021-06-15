@@ -1,4 +1,4 @@
-import random, numpy
+import random
 turns, score = [], []
 
 def retry(score, turns):
@@ -14,7 +14,7 @@ def retry(score, turns):
 
 def game():
     n1 = random.randint(0, 10)
-    ans = numpy.square(n1)
+    ans = square(n1**2)
     print("\nWhat is the square of", str(n1)+"?")
     user = int(input("==> "))
     a = 1
