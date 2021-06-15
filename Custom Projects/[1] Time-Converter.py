@@ -1,11 +1,11 @@
-print("\n\n========== Welcome to Ro's Time Converter ==========\n")
+print("\n\n========== Welcome to LiTBRo's Time Converter ==========\n")
 
 def progres(): #progres - program reset
     inp = str(input("\nWould you like to try again (y/n) => "))
     if inp == "y":
         main()    
     elif inp == "n":
-        print("\n\n========== Thank You For Using Ro's Time Converter ==========\n\n")
+        print("\n\n========== Thank You For Using LiTBRo's Time Converter ==========\n\n")
     else:
         print("\nInvalid response was entered! Please try again...")
         progres()
