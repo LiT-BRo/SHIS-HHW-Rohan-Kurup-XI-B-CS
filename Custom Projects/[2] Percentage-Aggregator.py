@@ -1,11 +1,11 @@
-print("\n\n =+=+=+=+==|=| Welcome to Ro's Percentage-Aggregator |=|==+=+=+=+=\n")
+print("\n\n =+=+=+=+==|=| Welcome to LiTBRo's Percentage-Aggregator |=|==+=+=+=+=\n")
 
 def progres(): #program-reset-function
     rel = str(input("\nWould you like to try again? (y/n) => "))
     if rel == "y":
         main()
     elif rel == "n":
-        print("\n\n=========== Thank You For Using Ro's Calculator! ===========\n\n")
+        print("\n\n=========== Thank You For Using LiTBRo's Calculator! ===========\n\n")
         exit()
     else: #Debugged to avoid errors
         print(" ")
