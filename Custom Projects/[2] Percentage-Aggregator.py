@@ -1,6 +1,6 @@
 print("\n\n =+=+=+=+==|=| Welcome to Ro's Percentage-Aggregator |=|==+=+=+=+=\n")
 
-def progres(): #program-reset function
+def progres(): #program-reset-function
     rel = str(input("\nWould you like to try again? (y/n) => "))
     if rel == "y":
         main()
