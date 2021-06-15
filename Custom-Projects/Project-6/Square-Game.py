@@ -10,6 +10,7 @@ def retry(score, turns):
         sumt = str(sum(turns)) # sumt = sum_turns
         sums = str(sum(score)) # sums = sum_score
         print("\nNice try! Your score is =", sums+"/"+sumt)
+        print("======= Thanks for playing LiTBRo's Squaring Game =======")
         exit()
 
 def game():
@@ -30,6 +31,6 @@ def game():
         print("\nBuzzz! Wrong answer... The correct answer is = ", ans, '\n')
         retry(score, turns)
 
-print("\n======= Welcome to LiTBRo's Math Game! =======\n")
+print("\n======= Welcome to LiTBRo's Squaring Game! =======\n")
 print("Let's check how good your math is!")
 game()
