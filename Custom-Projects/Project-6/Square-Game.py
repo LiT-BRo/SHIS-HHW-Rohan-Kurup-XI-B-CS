@@ -10,7 +10,7 @@ def retry(score, turns):
         sumt = str(sum(turns)) # sumt = sum_turns
         sums = str(sum(score)) # sums = sum_score
         print("\nNice try! Your score is =", sums+"/"+sumt)
-        print("======= Thanks for playing LiTBRo's Square Game =======")
+        print("\n======= Thanks for playing LiTBRo's Square Game =======\n")
         exit()
 
 def game():
