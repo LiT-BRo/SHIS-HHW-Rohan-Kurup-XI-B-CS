@@ -1,3 +1,5 @@
+# This is a simple tool which determines whether an entered number is a composite number a prime number or even none of them.
+
 print("\n\n====== Welcome to Ro's Number Detector v0.2 ======\n")
 notice = "\n\tNOTICE: To exit press E"
 
