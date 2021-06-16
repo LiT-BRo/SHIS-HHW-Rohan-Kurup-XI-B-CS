@@ -1,3 +1,5 @@
+# This is an automatic password making tool which generates a secure password for you within seconds while all you need to do is enter your name.
+
 import time
 
 list = ["a", "e", "i", "o", "u"]
@@ -10,7 +12,7 @@ symbols =  (('s', '$'),
             ("0", "O"),
             ("A", "@"),
             ("h", "#"))
-print("\n\n============= Welcome To Ro's Password Generator! =============\n")
+print("\n\n============= Welcome To LiTBRo's Password Generator! =============\n")
 f_name = input("\nEnter your first-name => ")
 print("\nHello,", f_name)
 f_name = f_name.lower()
@@ -25,4 +27,4 @@ for x, y in symbols:
 
 print("\nYour secure password is ",password)
 
-print("\n=========== Thanks for using  Ro's Password Generator! ===========\n")
+print("\n=========== Thanks for using  LiTBRo's Password Generator! ===========\n")
