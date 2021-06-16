@@ -1,3 +1,6 @@
+#This is a 2D and 3D shape Area, Perimeter, Surface Area & Volume caluculator.
+#It includes the following shapes: Square, Rectangle, Cirle (& its types), Triangles (& its types), Cube, Cuboid, Sphere (& its types).
+
 wroval = "\n⚠️  Invalid value entered!  Please try again...\n"
 #wroval -> Wrong Value "String"
 
