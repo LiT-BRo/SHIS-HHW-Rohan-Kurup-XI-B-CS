@@ -1,0 +1,58 @@
+{
+    "accounts": [
+        {
+            "name": "Rohan",
+            "surname": "Kurup",
+            "username": "LiTBRo",
+            "email": "rohankurup26@gmail.com",
+            "password": "Rohan@123",
+            "has_phone": true,
+            "phone": 8800468405
+        },
+        {
+            "name": "Bhavya",
+            "surname": "Dhoot",
+            "username": "The",
+            "email": "theroasters0@gmail.com",
+            "password": "Bhavya@123",
+            "has_phone": false,
+            "phone": null
+        },
+        {
+            "name": "Seeka",
+            "surname": "Bhargava",
+            "username": "seekathekiller123",
+            "email": "seeka@gmail.com",
+            "password": "Seeka@123",
+            "has_phone": true,
+            "phone": 8800412345
+        },
+        {
+            "name": "Ram",
+            "surname": "Parkash",
+            "username": "rampakasop",
+            "email": "ramparkas@superman.com",
+            "password": "R@mp@r#a$h",
+            "has_phone": true,
+            "phone": 8282828282
+        },
+        {
+            "name": "Balram",
+            "surname": "Singh",
+            "username": "BalramTheGreat",
+            "email": "thegreatbalramsingh@gmail.com",
+            "password": "B@lR@mS*NG#",
+            "has_phone": false,
+            "phone": null
+        },
+        {
+            "name": "Yo Yo",
+            "surname": "Modi Singh",
+            "username": "ModiHiJitegaHeHe",
+            "email": "moditheemperor@gmail.com",
+            "password": "B@r@mT#EGRE@T",
+            "has_phone": true,
+            "phone": 7187187187
+        }
+    ]
+}
