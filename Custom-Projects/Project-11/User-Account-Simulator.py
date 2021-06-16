@@ -1,7 +1,6 @@
 # This is a smart simulation of how large industries make use of the JSON data transfer system to exchange data across databases to store user's data collectively and use them effectively to link it with any external service. 
 #What makes this simulation smart is the exchange of data across JSON files, minimum chances of runtime errors, demonstrates the simple logic behind creating accounts and accessing them, only in-built Python Modules have been used, which makes the program the most stable.
 
-
 # Dependencies:
 import json, time
 
