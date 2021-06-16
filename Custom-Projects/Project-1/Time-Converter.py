@@ -1,3 +1,6 @@
+#This is a time converting program which converts the input entered in seconds into the format (DAYS:HOURS:MINUTES:SECONDS)
+#Debugged to avoid any faulty inputs.
+
 print("\n\n========== Welcome to LiTBRo's Time Converter ==========\n")
 
 def progres(): #progres - program reset
