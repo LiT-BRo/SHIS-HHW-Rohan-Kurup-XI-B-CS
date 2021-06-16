@@ -1,3 +1,6 @@
+#This is an Interest Calculator, calculates both Simple Interest and Compound Interest on the entered input Priciple with the summed up total amount.
+#Also gives option to compound Yearly, Half-yearly, Quaterly or Monthly.
+
 print("\n\n=+=+=+=+=|=| Welcome to LiTBRo's Interest Calculator |=|==+=+=+=+=\n")
 
 wroval = "\n⚠️  Invalid value entered!  Please try again...\n"
