@@ -1,3 +1,5 @@
+# This is an interesting, interaciting square game which randomly prompts questions and replies accordingly with an in-built scoring system, displayed towards the end of the game.
+
 import random
 turns, score = [], []
 
