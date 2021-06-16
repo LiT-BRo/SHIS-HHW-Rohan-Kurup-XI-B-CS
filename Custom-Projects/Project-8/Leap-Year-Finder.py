@@ -1,3 +1,5 @@
+# This is a simple tool which helps quickly find and check whether a year is/was a leap year or not just by entering a particular year.
+
 def year():
     year = int(input("\nEnter the year: "))
 
