@@ -1,3 +1,6 @@
+#This program calculates the aggegate of Percenatge scored on the input of the marks.
+#Debugged to avoid any faulty inputs.
+
 print("\n\n =+=+=+=+==|=| Welcome to LiTBRo's Percentage-Aggregator |=|==+=+=+=+=\n")
 
 def progres(): #program-reset function
