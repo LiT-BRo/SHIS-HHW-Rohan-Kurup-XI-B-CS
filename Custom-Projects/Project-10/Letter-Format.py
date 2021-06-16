@@ -1,3 +1,5 @@
+# With the help of a pre-set format for a letter, this tool offers a great saving of time.  Entering just the valid details such as the name of recipient, subject, sender’s name, etc. the letter is complete within seconds.
+
 letter = """\n\nDate: <|DATE|>
 
 Subject: <|SUBJECT|>
