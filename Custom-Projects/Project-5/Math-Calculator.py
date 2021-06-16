@@ -1,3 +1,5 @@
+# This is Basic Arithmatic Calculator, calculates sum, difference, product, quotient, square, square-root & factorial on the entered input.
+
 def progres(): #program-reset function
     rel = str(input("\nWould you like to try again? (y/n) => "))
     if rel == "y":
