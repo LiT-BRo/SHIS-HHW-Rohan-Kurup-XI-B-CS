@@ -1,5 +1,4 @@
-#This program calculates the aggegate of Percenatge scored on the input of the marks.
-#Debugged to avoid any faulty inputs.
+# This program prints the star pattern as required by the question.
 
 print("\nPrinting the pattern in a list using a 'for loop':\n ")
 
