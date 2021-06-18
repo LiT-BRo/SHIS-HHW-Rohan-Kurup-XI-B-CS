@@ -1,4 +1,6 @@
-import time
+# This is a series simulator which prints the Fibonnaci series by the user inputted number as the index number until which the series will be printed.
+
+print("\n\n======== Welcome to LiTBRo's Fibonacci Series Simulator ========")
 x = 0
 n = 1 #These are new variables being printed each time (a+b = c, b+c=d....) in series. For these we will need three variables.
 a = 0 
