@@ -1,3 +1,7 @@
+# This is a program to replicate the opertaion of the given equation in python language.
+#Equation: 1-x+x2-x3+x4-.............xn
+
+print("======= Welcome to LiTBRo's Equation Solver =======")
 for i in range(30): 
     outp = []
     x = int(input("\nEnter the value of (x) => "))
