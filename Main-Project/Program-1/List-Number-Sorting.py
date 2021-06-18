@@ -1,3 +1,7 @@
+#This is a program which displays the Greatest and the Smallest numbers among 3 the three inputted integers.
+#It is handled in a array Frame-Work/Data-Structure.
+
+print("\n\n========== Welcome to LiTBRo's Time Converter ==========\n")
 list = []
 cardinal = ['First', 'Second', 'Third']
 for i in range(3):
