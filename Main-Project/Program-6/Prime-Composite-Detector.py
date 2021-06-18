@@ -1,4 +1,6 @@
-print("\n\n======Welcome to Ro's Number Detector v0.2======\n")
+# This is a program that automatically detetects whether the inputted number is a prime number or a composite number.
+
+print("\n\n======Welcome to LiTBRo's Number Detector v0.2======\n")
 
 while True:
     number = int(input("\nEnter a number => "))
