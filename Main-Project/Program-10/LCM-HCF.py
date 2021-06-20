@@ -1,4 +1,4 @@
-print("\n\n======== Welcome to Ro's LCM & HCF ========")
+print("\n\n======== Welcome to LiTBRo's LCM & HCF ========")
 print("\nEnter the numbers below to find the HCF and LCM:")
 num1 = int(input("Enter the first number => ")) #user_input1
 num2 = int(input("Enter the second number => ")) #user_input2
