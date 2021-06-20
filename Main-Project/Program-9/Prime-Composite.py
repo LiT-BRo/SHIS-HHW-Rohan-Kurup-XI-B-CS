@@ -1,16 +1,27 @@
 # This is a simple tool which determines whether an entered number is a composite number a prime number or even none of them.
 
-print("\n\n======Welcome to Ro's user_input Detector v0.2======\n")
+print("\n\n====== Welcome to Ro's Number Detector v0.2 ======\n")
+notice = "\n\tNOTICE: To exit press E"
 
 while True:
-    user_input = int(input("\nEnter a user_input => "))
-    if user_input <= 1:
-        print(f"\n{user_input} is neither Prime nor Composite.")
+    def program():
+        for i in range(2):
+            number = input("\nEnter a number => ")
 
-    else:
-        for divisor in range(2, (user_input)): #So the Divisor is ranging from 2 to (Inputed Number-1).
-            if user_input % divisor == 0: #If user_input is divisibe by any of the user_inputs in range.
-                print(f"\n{user_input} is a Composite Number.")
-                break
-        else: 
-            print(f"\n{user_input} is Prime Number.")
+            if number.lower() == 'e':
+                print("\n====== Thanks for using Ro's Number Detector v0.2 ======")
+                exit()
+
+            elif int(number) == 1 or int(number) == 0:
+                print(f"\nThe number {number} is NITHER PRIME NOR COMPOSITE")
+
+            elif int(number) > 1  or int(number) < 0:
+                for i in range(2, (int(number))): #So the Divisor(i) is ranging from 2 to the Inputted Number.
+                    if int(number) % i == 0: #If number is divisibe by any of the numbers in range.
+                        print(f"\nThe number {number} is a COMPOSITE NUMBER")
+                        break
+                else: 
+                    print(f"\nThe number {number} is a PRIME NUMBER")
+        print(notice)
+        program()
+    program()
