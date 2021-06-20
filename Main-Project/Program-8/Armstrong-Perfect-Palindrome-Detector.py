@@ -1,3 +1,5 @@
+# This is a program which detects if a number is a special number. Special numbers include Perfect Numbers, Palindromes, Narrsistic Numbers and Integers.
+
 def armstrong(user_input):
     answer = 0
     units = len(str(user_input)) #Getting the length of the number for exponentiation
