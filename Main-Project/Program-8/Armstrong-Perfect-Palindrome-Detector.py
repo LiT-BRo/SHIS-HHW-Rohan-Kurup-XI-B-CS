@@ -36,7 +36,7 @@ def palindrome(user_input):
         return False #Number not palindrome
 
 def main():
-    print("\n\n====== Welcome to Ro's Number Detector v0.1 ========")
+    print("\n\n====== Welcome to LiTBRo's Number Detector v0.1 ========")
 
     user_input = int(input("\nEnter the number => "))
 
